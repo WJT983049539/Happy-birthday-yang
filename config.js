@@ -13,7 +13,7 @@ var config = {
         "以后的每个生日  朝暮与年岁共往",
         "要把我家可爱猪猪喂饱饱",
         "然后抱走",
-        "YAMI~~",
+        "哈哈哈~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -31,7 +31,7 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
-        play: "音乐",
+        play: "music",
         bannar_coming: "color?",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
