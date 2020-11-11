@@ -7,10 +7,10 @@ var config = {
         "心爱的小可爱",  // 同上...
         "今天是你的生日",
         "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
+        "第一个生日",
+        "深深的祝福我的羊，Happy birthday!",
+        "快乐多多忧愁赶走",
+        "以后的每个生日  朝暮与年岁共往",
         "要把我家可爱猪猪喂饱饱",
         "然后抱走",
         "YAMI~~",
@@ -32,7 +32,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "color?",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
